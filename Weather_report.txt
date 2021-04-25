@@ -1,0 +1,17 @@
+-----------pollachi-----------
+Temperature: 307.15
+Humidity: 49
+Pressure: 1008
+Weather Report: scattered clouds----------coimbatore----------
+Temperature: 307.15
+Humidity: 49
+Pressure: 1008
+Weather Report: scattered clouds------------london------------
+Temperature: 282.97
+Humidity: 57
+Pressure: 1030
+Weather Report: overcast clouds-----------america------------
+Temperature: 292.1
+Humidity: 39
+Pressure: 1010
+Weather Report: broken clouds
